@@ -1,9 +1,9 @@
 ---
 layout: post
-title: You're up and running!
+title: Is it because
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+I see light coming in me. Is it because, I talked to the setting sun?   I hear music everywhere. Is it because, I just cried my loudest cry?   I find you wherever I get. Is it because, I no longer know who I am?
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
