@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About
+title: About Shivam
 permalink: /about/
 ---
 
-Some information about you!
+Hi, Here is some irrelevant information about me. I like to learn and play techno music, explore different genres of music, learn painting and go on a vacation to honalulu :p
 
 ### More Information
 
